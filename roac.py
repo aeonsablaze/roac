@@ -75,7 +75,7 @@ class TestBot(irc.bot.SingleServerIRCBot):
             self.connection.join(rejoinchan)
             self.say("Psych!")
             sleep(1.2)
-            self.say("No but seriously, only aeonsablaze can use that command. ;P")
+            self.say("No but seriously, only aeonsablaze can use that command. Jerk. ;P")
 
     def do_command(self, e, cmd):
         nick = e.source.nick
