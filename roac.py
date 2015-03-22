@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #
-# This is my attempt at an IRC chatbot based on the python "irc" module.
+# This is my attempt at an IRC chatbot based on the python "irc" module and borrowing heavily from the "test" bot that comes with that module.
 # This is a work in progress.
 
 import irc.bot
